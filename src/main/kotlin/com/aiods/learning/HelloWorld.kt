@@ -14,7 +14,7 @@ fun main() {
 }
 
 /**
- * this is the sum which taking two number and returning sum it
+ * this is the sum which taking two number and returning sum of it
  */
 fun sum(x: Int, y: Int)=x+y
 
