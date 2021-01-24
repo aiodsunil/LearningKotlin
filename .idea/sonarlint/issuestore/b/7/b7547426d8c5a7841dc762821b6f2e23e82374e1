@@ -1,0 +1,4 @@
+
+
+java:S4165"dRemove this useless assignment; "result" already holds the assigned value along all execution paths.(ÅŠ±8¶†Âƒó.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(”°¤…8—èÅƒó.
