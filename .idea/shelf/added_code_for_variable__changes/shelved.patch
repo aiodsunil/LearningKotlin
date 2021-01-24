@@ -1,0 +1,84 @@
+Index: src/main/kotlin/com/aiods/learning/HelloVariable.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/kotlin/com/aiods/learning/HelloVariable.java b/src/main/kotlin/com/aiods/learning/HelloVariable.java
+new file mode 100644
+--- /dev/null	(date 1611398131959)
++++ b/src/main/kotlin/com/aiods/learning/HelloVariable.java	(date 1611398131959)
+@@ -0,0 +1,8 @@
++package com.aiods.learning;
++
++public class HelloVariable {
++    public static void main(String[] args) {
++
++        String firstName ="Sunil Yadav";
++    }
++}
+Index: src/main/kotlin/com/aiods/learning/VariableInKotlin.kt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/kotlin/com/aiods/learning/VariableInKotlin.kt b/src/main/kotlin/com/aiods/learning/VariableInKotlin.kt
+new file mode 100644
+--- /dev/null	(date 1611398353485)
++++ b/src/main/kotlin/com/aiods/learning/VariableInKotlin.kt	(date 1611398353485)
+@@ -0,0 +1,19 @@
++package com.aiods.learning
++
++fun main() {
++
++    val  firstName="Sunil"
++    val  surName="Yadav"
++
++    println("${firstName.toUpperCase()} $surName")
++
++    val  multiLine="""
++               |hello there
++               |how are you
++               """.trimMargin("|")
++
++    println(multiLine)
++
++
++
++}
+\ No newline at end of file
+Index: .idea/sonarlint/issuestore/index.pb
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>\n`\n0src/main/kotlin/com/aiods/learning/HelloWorld.kt\u0012,a/a/aab8158696ba95c7ca604c11021b2e96ddbf6e95
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/sonarlint/issuestore/index.pb b/.idea/sonarlint/issuestore/index.pb
+--- a/.idea/sonarlint/issuestore/index.pb	(revision 668a6315ca183b7d19364a078993369f005302c8)
++++ b/.idea/sonarlint/issuestore/index.pb	(date 1611397591023)
+@@ -1,3 +1,5 @@
+ 
+ `
+-0src/main/kotlin/com/aiods/learning/HelloWorld.kt,a/a/aab8158696ba95c7ca604c11021b2e96ddbf6e95
+\ No newline at end of file
++0src/main/kotlin/com/aiods/learning/HelloWorld.kt,a/a/aab8158696ba95c7ca604c11021b2e96ddbf6e95
++d
++4src/main/kotlin/com/aiods/learning/StringInKotlin.kt,9/8/983a3fc579b2fc59782e82b44d06f0096b4646d0
+\ No newline at end of file
+Index: src/main/kotlin/com/aiods/learning/StringInKotlin.kt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/kotlin/com/aiods/learning/StringInKotlin.kt b/src/main/kotlin/com/aiods/learning/StringInKotlin.kt
+new file mode 100644
+--- /dev/null	(date 1611252427080)
++++ b/src/main/kotlin/com/aiods/learning/StringInKotlin.kt	(date 1611252427080)
+@@ -0,0 +1,6 @@
++package com.aiods.learning
++
++fun main() {
++    val firstName="Sunil "
++    println("$firstName")
++}
+\ No newline at end of file

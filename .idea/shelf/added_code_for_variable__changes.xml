@@ -1,0 +1,19 @@
+<changelist name="added_code_for_variable__changes" date="1611400758817" recycled="false">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/added_code_for_variable__changes/shelved.patch" />
+  <option name="DESCRIPTION" value="added code for variable  changes" />
+  <binary>
+    <option name="BEFORE_PATH" value="out/production/LearningKotlin/META-INF/LearningKotlin.kotlin_module" />
+    <option name="AFTER_PATH" value="out/production/LearningKotlin/META-INF/LearningKotlin.kotlin_module" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/added_code_for_variable__changes/LearningKotlin.kotlin_module" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="out/production/LearningKotlin/HelloJava.class" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="out/production/LearningKotlin/HelloWorldKt.class" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+</changelist>
