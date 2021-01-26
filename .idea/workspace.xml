@@ -2,18 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f69bef6-6269-487b-96ea-1f6e82ef44e1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lib/kotlin-reflect-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/kotlin-reflect.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/kotlin-stdlib-jdk7-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/kotlin-stdlib-jdk7.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/kotlin-stdlib-jdk8-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/kotlin-stdlib-jdk8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/kotlin-stdlib-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/kotlin-stdlib.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/kotlin-test-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/kotlin-test.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/aiods/learning/Nullability.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LearningKotlin/com/aiods/learning/NullabilityKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearningKotlin/com/aiods/learning/NullabilityKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/aiods/learning/Nullability.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/aiods/learning/Nullability.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -146,7 +137,7 @@
       <workItem from="1611696869417" duration="39000" />
       <workItem from="1611696923160" duration="25000" />
       <workItem from="1611696960856" duration="41000" />
-      <workItem from="1611697017432" duration="802000" />
+      <workItem from="1611697017432" duration="2721000" />
     </task>
     <servers />
   </component>

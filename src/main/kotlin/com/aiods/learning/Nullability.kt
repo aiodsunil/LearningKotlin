@@ -3,7 +3,10 @@ package com.aiods.learning
 fun main() {
 
 
-    var name: String? =null
+    var name: String? ="sunil"
 
-    println("${name?.toUpperCase()}")
+    var length=  name?.length?: 3 //?: elvis operator
+
+     println("name length is $length")
+
 }
