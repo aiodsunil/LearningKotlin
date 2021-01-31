@@ -9,7 +9,7 @@ fun main() {
     val intTye=123
 
     println("intTye is ${intTye::class.qualifiedName}")
-    println("intTye in java ${intTye.javaClass}")
+    println("intTye in java ${intTye::class.java}")
 
     val longType=3344L
     val floatType=343.54f
