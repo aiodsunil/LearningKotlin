@@ -4,6 +4,8 @@
     <list default="true" id="9f69bef6-6269-487b-96ea-1f6e82ef44e1" name="Default Changelist" comment="functions in kotlin">
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/c/bc9b55643af2ec33561242ca015adf1a4370d75e" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/c/bc9b55643af2ec33561242ca015adf1a4370d75e" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LearningKotlin/com/aiods/learning/classes/ClassesKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearningKotlin/com/aiods/learning/classes/ClassesKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LearningKotlin/com/aiods/learning/classes/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearningKotlin/com/aiods/learning/classes/Employee.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/aiods/learning/classes/Classes.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/aiods/learning/classes/Classes.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,13 +60,15 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager" selected="Application.ClassesKt">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -177,7 +181,8 @@
       <workItem from="1612391172777" duration="632000" />
       <workItem from="1612513482880" duration="5163000" />
       <workItem from="1612544648456" duration="1338000" />
-      <workItem from="1612556431523" duration="2078000" />
+      <workItem from="1612556431523" duration="3263000" />
+      <workItem from="1612565111738" duration="756000" />
     </task>
     <task id="LOCAL-00001" summary="functions in kotlin">
       <created>1612343005315</created>
