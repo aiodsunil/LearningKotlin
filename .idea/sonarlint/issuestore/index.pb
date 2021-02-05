@@ -19,3 +19,7 @@ a
 1src/main/kotlin/com/aiods/learning/InputValues.kt,a/b/abf673c6353f7faa49661cc95bffb23653682e1a
 _
 /src/main/kotlin/com/aiods/learning/Functions.kt,8/e/8ee0a6968b3929d90f39e5296b5e9eba480912d8
+S
+#.idea/sonarlint/issuestore/index.pb,9/f/9fe84ebb15faf917b7def6236dba604453cc61e0
+e
+5src/main/kotlin/com/aiods/learning/classes/Classes.kt,b/c/bc9b55643af2ec33561242ca015adf1a4370d75e

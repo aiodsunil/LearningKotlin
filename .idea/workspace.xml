@@ -1,13 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9f69bef6-6269-487b-96ea-1f6e82ef44e1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/aiods/learning/Functions.kt" afterDir="false" />
+    <list default="true" id="9f69bef6-6269-487b-96ea-1f6e82ef44e1" name="Default Changelist" comment="functions in kotlin">
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/f/9fe84ebb15faf917b7def6236dba604453cc61e0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/aiods/learning/classes/Classes.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/e/8ee0a6968b3929d90f39e5296b5e9eba480912d8" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/e/8ee0a6968b3929d90f39e5296b5e9eba480912d8" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/LearningKotlin/META-INF/LearningKotlin.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearningKotlin/META-INF/LearningKotlin.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LearningKotlin/com/aiods/learning/DataTypeKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearningKotlin/com/aiods/learning/DataTypeKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LearningKotlin/com/aiods/learning/FunctionsKt$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LearningKotlin/com/aiods/learning/FunctionsKt$sum$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LearningKotlin/com/aiods/learning/FunctionsKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearningKotlin/com/aiods/learning/FunctionsKt.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/LearningKotlin/com/aiods/learning/HelloWorldKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearningKotlin/com/aiods/learning/HelloWorldKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/aiods/learning/HelloWorld.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/aiods/learning/HelloWorld.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LearningKotlin/com/aiods/learning/InputValuesKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearningKotlin/com/aiods/learning/InputValuesKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LearningKotlin/com/aiods/learning/NullabilityKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearningKotlin/com/aiods/learning/NullabilityKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LearningKotlin/com/aiods/learning/OtherDataTypesKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearningKotlin/com/aiods/learning/OtherDataTypesKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LearningKotlin/com/aiods/learning/TypeCastInKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearningKotlin/com/aiods/learning/TypeCastInKotlinKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/aiods/learning/Functions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/aiods/learning/Functions.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +29,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin File" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -43,6 +55,8 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -57,7 +71,33 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.FunctionsKt">
+  <component name="RunManager" selected="Application.ClassesKt">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClassesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="LearningKotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.aiods.learning.classes.ClassesKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DataTypeKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="LearningKotlin" />
       <option name="VM_PARAMETERS" />
@@ -110,33 +150,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NullabilityKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <module name="LearningKotlin" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.aiods.learning.NullabilityKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.DataTypeKt" />
       <item itemvalue="Application.InputDataKt" />
-      <item itemvalue="Application.NullabilityKt" />
       <item itemvalue="Application.InputValuesKt" />
       <item itemvalue="Application.FunctionsKt" />
+      <item itemvalue="Application.ClassesKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ClassesKt" />
         <item itemvalue="Application.FunctionsKt" />
         <item itemvalue="Application.InputValuesKt" />
         <item itemvalue="Application.InputDataKt" />
         <item itemvalue="Application.DataTypeKt" />
-        <item itemvalue="Application.NullabilityKt" />
       </list>
     </recent_temporary>
   </component>
@@ -162,7 +189,19 @@
       <workItem from="1612207223294" duration="1202000" />
       <workItem from="1612340929071" duration="58000" />
       <workItem from="1612340999432" duration="1505000" />
+      <workItem from="1612342969533" duration="504000" />
+      <workItem from="1612391172777" duration="632000" />
+      <workItem from="1612513482880" duration="5163000" />
+      <workItem from="1612544648456" duration="1229000" />
     </task>
+    <task id="LOCAL-00001" summary="functions in kotlin">
+      <created>1612343005315</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1612343005315</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -173,7 +212,13 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -182,6 +227,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="functions in kotlin" />
+    <option name="LAST_COMMIT_MESSAGE" value="functions in kotlin" />
   </component>
   <component name="XDebuggerManager">
     <pin-to-top-manager>
