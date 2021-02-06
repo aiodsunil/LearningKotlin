@@ -21,5 +21,9 @@ _
 /src/main/kotlin/com/aiods/learning/Functions.kt,8/e/8ee0a6968b3929d90f39e5296b5e9eba480912d8
 S
 #.idea/sonarlint/issuestore/index.pb,9/f/9fe84ebb15faf917b7def6236dba604453cc61e0
-e
-5src/main/kotlin/com/aiods/learning/classes/Classes.kt,b/c/bc9b55643af2ec33561242ca015adf1a4370d75e
+]
+-src/main/kotlin/com/aiods/learning/Classes.kt,5/5/55c2326810b787096306d896b5b1e4bc8f3fc41c
+d
+4src/main/kotlin/com/aiods/learning/ObjectEquality.kt,5/f/5f69e5fae191d5534b6061e6bb6ba9c9d6db5c6c
+d
+4src/main/kotlin/com/aiods/learning/WhenExpression.kt,c/d/cd2ce045a407e4f0348344950bd22b420ca8fcda

@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f69bef6-6269-487b-96ea-1f6e82ef44e1" name="Default Changelist" comment="functions in kotlin">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/aiods/learning/Classes.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/aiods/learning/ObjectEquality.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/c/bc9b55643af2ec33561242ca015adf1a4370d75e" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/c/bc9b55643af2ec33561242ca015adf1a4370d75e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/aiods/learning/WhenExpression.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/c/bc9b55643af2ec33561242ca015adf1a4370d75e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearningKotlin/com/aiods/learning/classes/ClassesKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearningKotlin/com/aiods/learning/classes/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/aiods/learning/classes/Classes.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LearningKotlin/META-INF/LearningKotlin.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearningKotlin/META-INF/LearningKotlin.kotlin_module" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,14 +59,16 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.ObjectEqualityKt">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.WhenExpressionKt">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -99,19 +99,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InputDataKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <module name="LearningKotlin" />
-      <option name="VM_PARAMETERS" value="" />
-      <option name="PROGRAM_PARAMETERS" value="hi there" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.aiods.learning.InputDataKt" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="InputValuesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="LearningKotlin" />
       <option name="VM_PARAMETERS" value="" />
@@ -138,20 +125,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WhenExpressionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="LearningKotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.aiods.learning.WhenExpressionKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.InputDataKt" />
       <item itemvalue="Application.InputValuesKt" />
       <item itemvalue="Application.FunctionsKt" />
       <item itemvalue="Application.ClassesKt" />
       <item itemvalue="Application.ObjectEqualityKt" />
+      <item itemvalue="Application.WhenExpressionKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WhenExpressionKt" />
         <item itemvalue="Application.ObjectEqualityKt" />
         <item itemvalue="Application.ClassesKt" />
         <item itemvalue="Application.FunctionsKt" />
         <item itemvalue="Application.InputValuesKt" />
-        <item itemvalue="Application.InputDataKt" />
       </list>
     </recent_temporary>
   </component>
@@ -183,7 +183,8 @@
       <workItem from="1612544648456" duration="1338000" />
       <workItem from="1612556431523" duration="3263000" />
       <workItem from="1612565111738" duration="1868000" />
-      <workItem from="1612614332512" duration="4776000" />
+      <workItem from="1612614332512" duration="5738000" />
+      <workItem from="1612636329351" duration="546000" />
     </task>
     <task id="LOCAL-00001" summary="functions in kotlin">
       <created>1612343005315</created>
