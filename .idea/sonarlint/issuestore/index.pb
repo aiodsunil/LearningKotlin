@@ -29,3 +29,9 @@ d
 4src/main/kotlin/com/aiods/learning/WhenExpression.kt,c/d/cd2ce045a407e4f0348344950bd22b420ca8fcda
 e
 5src/main/kotlin/com/aiods/learning/ForWhileExplore.kt,8/5/857e3f147b776d0e120aaa82257cb6595b4e0d7e
+h
+8src/main/kotlin/com/aiods/learning/ExploreCollections.kt,4/a/4a4a3e2c3a261abe00302ae2fa42689de574aa1a
+h
+8src/main/kotlin/com/aiods/learning/ExceptionsInJava.java,a/a/aa2afd21973dcbbbe38d48c5ea3ea9c4c0fadb35
+h
+8src/main/kotlin/com/aiods/learning/ExceptionsInKotlin.kt,e/5/e52c2413b225cbdc7a9063161b87d4df8d075895

@@ -2,17 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f69bef6-6269-487b-96ea-1f6e82ef44e1" name="Default Changelist" comment="functions in kotlin">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/5/857e3f147b776d0e120aaa82257cb6595b4e0d7e" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/aiods/learning/ExploreCollections.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/aiods/learning/ForWhileExplore.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/d/cd2ce045a407e4f0348344950bd22b420ca8fcda" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/d/cd2ce045a407e4f0348344950bd22b420ca8fcda" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/aiods/learning/ExceptionsInJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/aiods/learning/ExceptionsInKotlin.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/LearningKotlin.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/LearningKotlin.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/5/857e3f147b776d0e120aaa82257cb6595b4e0d7e" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/5/857e3f147b776d0e120aaa82257cb6595b4e0d7e" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/b/9b923a2a11f7c396d2cb4c6cb37dc3943e8ca792" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/b/9b923a2a11f7c396d2cb4c6cb37dc3943e8ca792" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/LearningKotlin/META-INF/LearningKotlin.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearningKotlin/META-INF/LearningKotlin.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearningKotlin/com/aiods/learning/WhenExpressionKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearningKotlin/com/aiods/learning/WhenExpressionKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/aiods/learning/WhenExpression.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/aiods/learning/WhenExpression.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LearningKotlin/com/aiods/learning/ExploreCollectionsKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearningKotlin/com/aiods/learning/ExploreCollectionsKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LearningKotlin/com/aiods/learning/TypeCast.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearningKotlin/com/aiods/learning/TypeCast.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +26,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Class" />
+        <option value="Class" />
         <option value="Kotlin File" />
       </list>
     </option>
@@ -69,12 +70,25 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.ExploreCollectionsKt">
+  <component name="RunManager" selected="Application.ExceptionsInKotlinKt">
+    <configuration name="ExceptionsInJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.aiods.learning.ExceptionsInJava" />
+      <module name="LearningKotlin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.aiods.learning.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -86,14 +100,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ClassesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+    <configuration name="ExceptionsInKotlinKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="LearningKotlin" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.aiods.learning.classes.ClassesKt" />
+      <option name="MAIN_CLASS_NAME" value="com.aiods.learning.ExceptionsInKotlinKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -125,19 +139,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ObjectEqualityKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <module name="LearningKotlin" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.aiods.learning.ObjectEqualityKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="WhenExpressionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="LearningKotlin" />
       <option name="VM_PARAMETERS" />
@@ -152,19 +153,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ClassesKt" />
-      <item itemvalue="Application.ObjectEqualityKt" />
+      <item itemvalue="Application.ExceptionsInJava" />
       <item itemvalue="Application.WhenExpressionKt" />
       <item itemvalue="Application.ForWhileExploreKt" />
       <item itemvalue="Application.ExploreCollectionsKt" />
+      <item itemvalue="Application.ExceptionsInKotlinKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExceptionsInKotlinKt" />
+        <item itemvalue="Application.ExceptionsInJava" />
         <item itemvalue="Application.ExploreCollectionsKt" />
         <item itemvalue="Application.WhenExpressionKt" />
         <item itemvalue="Application.ForWhileExploreKt" />
-        <item itemvalue="Application.ObjectEqualityKt" />
-        <item itemvalue="Application.ClassesKt" />
       </list>
     </recent_temporary>
   </component>
@@ -201,7 +202,11 @@
       <workItem from="1612638527847" duration="976000" />
       <workItem from="1612644429385" duration="1129000" />
       <workItem from="1612648663751" duration="647000" />
-      <workItem from="1613241151997" duration="733000" />
+      <workItem from="1613241151997" duration="2367000" />
+      <workItem from="1613245458894" duration="133000" />
+      <workItem from="1613245598792" duration="55000" />
+      <workItem from="1613245798219" duration="436000" />
+      <workItem from="1613246315415" duration="3593000" />
     </task>
     <task id="LOCAL-00001" summary="functions in kotlin">
       <created>1612343005315</created>
