@@ -27,3 +27,5 @@ d
 4src/main/kotlin/com/aiods/learning/ObjectEquality.kt,5/f/5f69e5fae191d5534b6061e6bb6ba9c9d6db5c6c
 d
 4src/main/kotlin/com/aiods/learning/WhenExpression.kt,c/d/cd2ce045a407e4f0348344950bd22b420ca8fcda
+e
+5src/main/kotlin/com/aiods/learning/ForWhileExplore.kt,8/5/857e3f147b776d0e120aaa82257cb6595b4e0d7e

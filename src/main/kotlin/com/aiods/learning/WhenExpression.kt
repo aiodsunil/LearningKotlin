@@ -1,11 +1,12 @@
 package com.aiods.learning
 
 fun main() {
-    
-    val x=1
 
+    val x = 1
 
-    val z=when (x) {
+    Unit
+
+    val z = when (x) {
         1 -> 1
         2 -> println("x == 2")
         else -> { // Note the block
@@ -13,5 +14,5 @@ fun main() {
         }
     }
 
-    println(z)
+   // z.toString().forEach { i -> println(i) }
 }
