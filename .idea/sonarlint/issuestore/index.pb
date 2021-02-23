@@ -37,3 +37,5 @@ h
 8src/main/kotlin/com/aiods/learning/ExceptionsInKotlin.kt,e/5/e52c2413b225cbdc7a9063161b87d4df8d075895
 n
 >src/main/kotlin/com/aiods/learning/ExploringTestingInKotlin.kt,8/3/8377c39f75779c194284800a1cfd53b50f0ecddb
+h
+8src/main/kotlin/com/aiods/learning/ExploringInterface.kt,8/a/8ac31bda5cb812c99b59b6155da9b6abb733c36f
