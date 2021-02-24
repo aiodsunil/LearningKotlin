@@ -39,3 +39,5 @@ n
 >src/main/kotlin/com/aiods/learning/ExploringTestingInKotlin.kt,8/3/8377c39f75779c194284800a1cfd53b50f0ecddb
 h
 8src/main/kotlin/com/aiods/learning/ExploringInterface.kt,8/a/8ac31bda5cb812c99b59b6155da9b6abb733c36f
+`
+0src/main/kotlin/com/aiods/learning/FPInKotlin.kt,b/0/b0e777cf0c0d1c2e28d40cfa8dc9fc565fe23ca8
