@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9f69bef6-6269-487b-96ea-1f6e82ef44e1" name="Default Changelist" comment="functions in kotlin">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/aiods/learning/ExploringReflection.kt" afterDir="false" />
+    <list default="true" id="9f69bef6-6269-487b-96ea-1f6e82ef44e1" name="Default Changelist" comment="reflection in kotlin">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/aiods/learning/ExploringLambda.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/0/b0e777cf0c0d1c2e28d40cfa8dc9fc565fe23ca8" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/0/b0e777cf0c0d1c2e28d40cfa8dc9fc565fe23ca8" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/LearningKotlin/META-INF/LearningKotlin.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearningKotlin/META-INF/LearningKotlin.kotlin_module" afterDir="false" />
     </list>
@@ -82,30 +84,13 @@
       <recent name="com.aiods.learning" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ExploringReflectionKt">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.ExploringLambdaKt">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SumTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="LearningKotlin" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.aiods.learning.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.aiods.learning" />
-      <option name="MAIN_CLASS_NAME" value="com.aiods.learning.SumTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -132,6 +117,19 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="com.aiods.learning.ExploringInterfaceKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExploringLambdaKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="LearningKotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.aiods.learning.ExploringLambdaKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -164,19 +162,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.SumTest" />
       <item itemvalue="Application.ExploringInterfaceInheritanceKt" />
       <item itemvalue="Application.ExploringInterfaceKt" />
       <item itemvalue="Application.FPInKotlinKt" />
       <item itemvalue="Application.ExploringReflectionKt" />
+      <item itemvalue="Application.ExploringLambdaKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExploringLambdaKt" />
         <item itemvalue="Application.ExploringReflectionKt" />
         <item itemvalue="Application.FPInKotlinKt" />
         <item itemvalue="Application.ExploringInterfaceKt" />
         <item itemvalue="Application.ExploringInterfaceInheritanceKt" />
-        <item itemvalue="JUnit.SumTest" />
       </list>
     </recent_temporary>
   </component>
@@ -224,7 +222,9 @@
       <workItem from="1614112102427" duration="2696000" />
       <workItem from="1614201809935" duration="9000" />
       <workItem from="1614201836021" duration="2776000" />
-      <workItem from="1614461454765" duration="2201000" />
+      <workItem from="1614461454765" duration="3197000" />
+      <workItem from="1614465499929" duration="7000" />
+      <workItem from="1614534317035" duration="3462000" />
     </task>
     <task id="LOCAL-00001" summary="functions in kotlin">
       <created>1612343005315</created>
@@ -254,7 +254,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614461476535</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="reflection in kotlin">
+      <created>1614464311157</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1614464311157</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -282,7 +289,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="functions in kotlin" />
     <MESSAGE value="update code" />
-    <option name="LAST_COMMIT_MESSAGE" value="update code" />
+    <MESSAGE value="reflection in kotlin" />
+    <option name="LAST_COMMIT_MESSAGE" value="reflection in kotlin" />
   </component>
   <component name="XDebuggerManager">
     <pin-to-top-manager>

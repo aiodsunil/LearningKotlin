@@ -41,3 +41,7 @@ h
 8src/main/kotlin/com/aiods/learning/ExploringInterface.kt,8/a/8ac31bda5cb812c99b59b6155da9b6abb733c36f
 `
 0src/main/kotlin/com/aiods/learning/FPInKotlin.kt,b/0/b0e777cf0c0d1c2e28d40cfa8dc9fc565fe23ca8
+i
+9src/main/kotlin/com/aiods/learning/ExploringReflection.kt,6/2/623b585bb0e457e466dc088f20a5d88a7ab0daf3
+e
+5src/main/kotlin/com/aiods/learning/ExploringLambda.kt,a/1/a1e9e52743ed271989659cb7bb2fe2609919d6d8
