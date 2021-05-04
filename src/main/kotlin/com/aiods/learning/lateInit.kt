@@ -2,7 +2,7 @@ package com.aiods.learning
 
 fun main() {
     lateinit var name:String
-    name= getString()
+    //name= getString()
     println("$name")
 }
 
